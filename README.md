@@ -28,6 +28,7 @@ That makes this topic highly relevant for developers, founders, indie hackers, a
 
 ## Best MCP Servers
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
 - [GitHub MCP Server](https://docs.github.com/en/copilot/how-tos/provide-context/use-mcp/set-up-the-github-mcp-server) - Official GitHub MCP server documentation.
 - [Top 7 MCP Servers for AI Agent Development](https://www.index.dev/blog/top-mcp-servers-for-ai-development) - Overview of popular MCP servers and use cases.
 - [Top 10 MCP Servers for AI Builders in 2026](https://www.analyticsvidhya.com/blog/2026/02/top-mcp-servers/) - Fresh 2026 ecosystem roundup.
